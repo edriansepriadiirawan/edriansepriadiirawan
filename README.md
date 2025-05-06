@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo guys! Welcome to my github. I'am Edrian 👋
 
 <!--
 **edriansepriadiirawan/edriansepriadiirawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+selamat melihat lihat, biar bisa dapat jodoh
+⚡ Fun fact: hidup keras seperti larry
+
+![gambar saya](img/absolute.png)
